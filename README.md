@@ -1,11 +1,10 @@
-# Siemens Energy API Testing Framework
+# FastAPI API Testing Framework
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Pytest](https://img.shields.io/badge/Pytest-8.4+-green.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.116+-teal.svg)
-![License](https://img.shields.io/badge/License-Siemens-orange.svg)
 
 **Comprehensive API Testing Framework with OpenAPI-Driven Test Generation**
 
@@ -33,7 +32,7 @@
 
 ## 🎯 Overview
 
-This repository contains the comprehensive API testing framework for Siemens Energy projects. It combines manual test development with automated test generation from OpenAPI specifications, providing a robust solution for API quality assurance.
+This is a personal demo project showcasing an API testing framework for a FastAPI application. It combines manual test development with automated test generation from OpenAPI specifications, providing a robust solution for API quality assurance.
 
 ### Key Capabilities
 
@@ -137,7 +136,7 @@ git --version
 
 ```powershell
 # 1. Clone the repository
-git clone https://dev.azure.com/siemens-energy/<project>/_git/<repo>
+git clone <repository-url>
 cd FASTAPI
 
 # 2. Create virtual environment
@@ -532,19 +531,9 @@ Track these metrics for test suite health:
 
 ---
 
-## 📞 Support
+## � License
 
-**Questions or Issues?**
-- 📧 Email: [team-email@siemens-energy.com]
-- 💬 Teams: [#api-testing-support]
-- 📖 Wiki: [Internal Wiki Link]
-- 🐛 Issues: [Azure DevOps Work Items]
-
----
-
-## 📄 License
-
-© 2025 Siemens Energy. Internal Use Only.
+This is a personal demo project for learning purposes.
 
 ---
 
@@ -560,8 +549,6 @@ Built with:
 
 <div align="center">
 
-**Made with ❤️ by Siemens Energy Testing Team**
-
-[⬆ Back to Top](#siemens-energy-api-testing-framework)
+[⬆ Back to Top](#fastapi-api-testing-framework)
 
 </div>
